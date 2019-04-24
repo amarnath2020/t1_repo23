@@ -1,6 +1,2 @@
 hi
-how are you
-b
-hello 
-hi
-
+how are u
